@@ -52,5 +52,149 @@
 
 ------
 
+#### 003.  0成本！自制一个属于你的网站！
+
+##### 准备工作：
+
+1.Node.js ：https://nodejs.org/zh-cn
+
+2.docsify官网：https://docsify.js.org/#/
+
+3.Typora 官方中文站：https://typoraio.cn/
+
+4.Git官网：https://git-scm.com/
+
+5.hugo官网：https://gohugo.io/
+
+6.hugo主题：https://themes.gohugo.io/
+
+7.GitHub官网：https://github.com/
+
+##### docsify建站流程（代码部分）：
+
+> [!IMPORTANT]
+>
+> 一切以视频步骤为准，下方只展示所需代码！
+
+###### ——docsify的安装
+
+1.检查node安装情况
+
+```
+node -v
+```
+
+2.检查npm安装情况
+
+```
+npm -v
+```
+
+3.安装docsify工具
+
+```
+npm i docsify-cli -g
+```
+
+4.初始化docsify文档
+
+```
+docsify init ./docs
+```
+
+5.本地预览您的网站
+
+```
+docsify serve docs
+```
+
+##### hugo建站流程（代码部分）：
+
+###### ——hugo的安装
+
+1.检查hugo安装情况
+
+```
+hugo version
+```
+
+2.创建项目结构
+
+注：quicklystart可自行更改名字
+
+```
+hugo new site quickstart
+```
+
+3.更改项目根目录（可以理解为在该目录下执行命令）
+
+注：名字前后一致！
+
+```
+cd quickstart
+```
+
+4.初始化git库
+
+```
+git init
+```
+
+--5.主题更换后或前启动hugo服务
+
+```
+hugo server
+```
+
+注：Ctrl+C停止本地预览
+
+
+
+###### ——添加文章
+
+1.添加文章
+
+注：my-first-post.md名字自定，注意后缀不要拉掉
+
+```
+hugo new content content/posts/my-first-post.md
+```
+
+
+
+###### ——手动部署
+
+1.在github上添加新项目和更改“hugo.yaml”文件后远程部署github
+
+注：先使用“…or create a new repository on the command line“前三行指令
+
+```
+echo "# demohugo" >> README.md
+git init
+git add README.md
+```
+
+2.将文件移至缓冲层
+
+```
+git add .
+```
+
+3.将剩余指令填入
+
+注：代码仅做示例，以自己的为准！
+
+```
+git branch -M main
+git remote add origin https://github.com/example/demohugo.git
+git push -u origin main
+```
+
+> [!IMPORTANT]
+>
+> 如果在建站过程中出现问题请仔细看视频操作，如有错误或无法解决的问题请在评论区指出。如遇到错误可以自行翻译一下错误提示，网络问题请稍后重试！
+
+------
+
 [粤ICP备2024222986号-1](https://beian.miit.gov.cn/#/Integrated/index)
 
