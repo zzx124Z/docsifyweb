@@ -154,12 +154,24 @@ hugo server
 
 ###### ——添加文章
 
-1.添加文章
+1.添加文章（默认主题）
 
 注：my-first-post.md名字自定，注意后缀不要拉掉
 
 ```
 hugo new content content/posts/my-first-post.md
+```
+
+2.添加文章（stack主题）
+
+```
+hugo new content content/post/my-first-post/index.md
+```
+
+3.添加文章后预览
+
+```
+hugo server -D
 ```
 
 
