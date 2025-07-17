@@ -162,6 +162,18 @@ hugo server
 hugo new content content/posts/my-first-post.md
 ```
 
+2.添加文章（(stack主题)
+
+```
+hugo new content content/post/my-first-post/index.md
+```
+
+3.添加文章后预览
+
+```
+hugo server -D
+```
+
 
 
 ###### ——手动部署
