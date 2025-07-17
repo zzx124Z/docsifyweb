@@ -199,6 +199,7 @@ git add .
 注：代码仅做示例，以自己的为准！
 
 ```
+git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/example/demohugo.git
 git push -u origin main
