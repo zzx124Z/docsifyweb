@@ -194,7 +194,16 @@ git add README.md
 git add .
 ```
 
-3.将剩余指令填入
+3.配置个人信息
+
+注：视频中没有这一步，如果出现与视频中不同的结果或报错，必须输入一下命令。
+
+```
+git config --global user.email "your-real-email@example.com"
+git config --global user.name "Your Name"
+```
+
+4.将剩余指令填入
 
 注：代码仅做示例，以自己的为准！
 
