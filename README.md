@@ -228,5 +228,31 @@ git push -u origin main
 
 ------
 
+#### 005.一键拥有个人网站！不用敲命令甚至完全免费！
+
+1.Node.js ：https://nodejs.org/zh-cn
+
+2.docsify官网：https://docsify.js.org/#/
+
+3.Typora 官方中文站：https://typoraio.cn/
+
+4.Git官网：https://git-scm.com/
+
+5.hugo官网：https://gohugo.io/
+
+6.hugo主题：https://themes.gohugo.io/
+
+7.GitHub官网：https://github.com/
+
+8.Watt Toolkit官网：https://steampp.net/
+
+##### 网盘地址：
+
+1.所需工具安装包https://wwey.lanzouu.com/b0138zhvob密码:2tk5
+
+2.一键搭建网页程序https://wwey.lanzouu.com/b01391a0ef密码:ai1j
+
+------
+
 [粤ICP备2024222986号-1](https://beian.miit.gov.cn/#/Integrated/index)
 
