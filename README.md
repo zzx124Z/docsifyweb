@@ -256,6 +256,15 @@ git push -u origin main
 
 ,密码:ai1j
 
+> [!IMPORTANT]
+>
+> 🔹 **免责声明**：  
+> - 本工具为**个人开发**，与以下官方项目无任何关联：  
+>   - [docsify](https://docsify.js.org/)（Markdown 驱动文档生成器）  
+>   - [Hugo](https://gohugo.io/)（Go 语言静态网站生成器）  
+> - 功能：简化 **docsify** 和 **Hugo** 的本地部署及 GitHub Pages 发布流程。  
+>
+
 ------
 
 [粤ICP备2024222986号-1](https://beian.miit.gov.cn/#/Integrated/index)
