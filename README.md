@@ -267,5 +267,5 @@ git push -u origin main
 
 ------
 
-[粤ICP备2024222986号-1](https://beian.miit.gov.cn/#/Integrated/index)
+
 
