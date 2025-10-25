@@ -267,5 +267,11 @@ git push -u origin main
 
 ------
 
+#### 006.【Sora2教程】AI生成的‘’我的世界‘’电影？玩家看完都沉默了
 
+1.Sora官网：https://sora.chatgpt.com/
+
+2.imini官网（可用于优化提示词，AI生成视频需要付费）：https://imini.com/zh/tools/ai-video/text-to-video
+
+------
 
