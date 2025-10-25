@@ -271,7 +271,9 @@ git push -u origin main
 
 1.Sora官网：https://sora.chatgpt.com/
 
-2.imini官网（可用于优化提示词，AI生成视频需要付费）：https://imini.com/zh/tools/ai-video/text-to-video
+2.Sora For All官网：https://escaping.work/sora-invites/
+
+3.imini官网（可用于优化提示词，AI生成视频需要付费）：https://imini.com/zh/tools/ai-video/text-to-video
 
 ------
 
