@@ -277,3 +277,21 @@ git push -u origin main
 
 ------
 
+#### 007.在电脑、手机中安装一个赛博助手？！
+
+1.Node.js ：https://nodejs.org/zh-cn
+
+2.心流开放平台：https://platform.iflow.cn/
+
+3.Termux官网：https://termux.dev/en/
+
+###### ——本地部署
+
+iflow安装指令
+
+```
+npm install -g @iflow-ai/iflow-cli@latest
+```
+
+------
+
